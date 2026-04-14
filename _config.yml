@@ -23,7 +23,7 @@ repository               : "JAC4861/jac4861.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   avatar           : "profile.png"
-  name             : "LixianChen"
+  name             : "Lixian Chen"
   bio              : "Undergraduate student interested in Data Mining and Computer Vision."
   location         : "Guangzhou, China"
   employer         : "Guangdong University of Technology"
